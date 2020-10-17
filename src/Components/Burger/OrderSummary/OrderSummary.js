@@ -2,7 +2,7 @@ import React from 'react';
 
 import Auxi from '../../../hoc/Auxi/Auxi';
 
-import Button from '../../UI/Button/Button';
+import Button from '../../UI/Button/Button';  
 
 
 const orderSummary = (props) => {
